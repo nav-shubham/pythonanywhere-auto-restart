@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Sensitive configuration and credentials
+.env
+
+# Session cookies and tokens
+cookies/
+
+# Execution logs
+logs/
+
+# Reference page downloads
+reference/
